@@ -16,9 +16,7 @@ Adam Castro
 
 # Description
 
-As a manager at an internet retail company
-I want a back end for my e-commerce website that uses the latest technologies
-so that my company can compete with other e-commerce companies.
+This app will allow the user to post info on tech news. With options to comment, vote, post, and delete what more could you ask for?
 
 # Languages
 
@@ -32,7 +30,7 @@ After cloning the repo the NPM package manager will need to be installed using t
 
 # Usage
 
-This app will allow the user to post info on tech news. With options to comment, vote, post, and delete what more could you ask for?
+This app can be launched using Heroku.
 
 # License
 
